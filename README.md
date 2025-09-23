@@ -28,4 +28,4 @@ A **Music Player application** built with **Java Swing**, capable of playing **.
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Music-Player-Java.git
+   git clone https://github.com/PawanGujar/Music_Player.git
